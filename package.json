@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/chanraork/rest-shop/issues"
   },
-  "homepage": "https://github.com/chanraork/rest-shop#readme"
+  "homepage": "https://github.com/chanraork/rest-shop#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
